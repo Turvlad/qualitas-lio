@@ -103,6 +103,11 @@ footer {
   color: var(--qualitas-teal);
 }
 
+footer h6.text-muted {
+  color: white !important;
+}
+
+
 /* -------------------------------------
    AJUSTES DEL CARRUSEL Y GRADIENTES 
 -------------------------------------- */
